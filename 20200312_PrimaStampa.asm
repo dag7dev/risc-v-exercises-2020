@@ -15,3 +15,5 @@ y:	.word 8
 	
 f:	sub a0, a0, a1
 	jalr ra
+	#ciao damiano!
+	
